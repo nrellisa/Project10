@@ -13,7 +13,7 @@ public class KiraLuasSegiEmpat {
 public static void main(String[]args){
 Scanner sisi = new Scanner (System.in);
 int S ;
-System.out.println("Masukan Sisi=");
+System.out.println("Masukan Jumlah Sisi=");
 S = sisi.nextInt();
 int Luas , Keliling ;
 Keliling = 4*S ; 
